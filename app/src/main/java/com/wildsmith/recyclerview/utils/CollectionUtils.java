@@ -1,4 +1,4 @@
-package com.wildsmith.dynamicrecyclerview.utils;
+package com.wildsmith.recyclerview.utils;
 
 import java.util.Collection;
 

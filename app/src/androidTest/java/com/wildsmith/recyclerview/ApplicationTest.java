@@ -1,4 +1,4 @@
-package com.wildsmith.dynamicrecyclerview;
+package com.wildsmith.recyclerview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

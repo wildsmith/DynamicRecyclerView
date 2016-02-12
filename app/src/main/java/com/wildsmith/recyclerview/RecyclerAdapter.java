@@ -1,9 +1,9 @@
-package com.wildsmith.dynamicrecyclerview;
+package com.wildsmith.recyclerview;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;
 
-import com.wildsmith.dynamicrecyclerview.utils.CollectionUtils;
+import com.wildsmith.recyclerview.utils.CollectionUtils;
 
 import java.util.ArrayList;
 import java.util.List;
